@@ -1,7 +1,0 @@
-+ 2.0 pontos
-- Apresentação obrigatória
-- máximo em dupla
-
--Dado um texto (.txt)
--Dada uma palavra
--Retorna "sim" se a palavra está no texto, ou "não" caso contrário.
